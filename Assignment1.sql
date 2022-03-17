@@ -8,7 +8,7 @@ CREATE TABLE mountains (
 );
 
 INSERT INTO mountains VALUES
-  ('Mount Everest', 8848, '1953-05-29'),
+  ('Mount Everest', 8848, '1953-05-30'),
   ('Kilimanjaro', 5895, '1889-10-06'),
   ('Denali', 6190, '1913-06-07'),
   ('Chimborazo', 6263, '1880-01-04'),
